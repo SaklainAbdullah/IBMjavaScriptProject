@@ -1,0 +1,29 @@
+body {background-color:black;}
+h1{color:green;}
+p{
+  color: black;
+  text-align: center;
+  font-size: 25;
+  font-family: sans-serif;
+}
+input{
+  margin-left: 12px;
+}
+h1{
+  color: grey;
+  text-align: center;
+}
+button{
+    margin-left: 40%;
+}
+div{
+  background-color: white;
+  align-items: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border-radius: 50px;
+  height: 400px;
+  width: 1000px;
+}
